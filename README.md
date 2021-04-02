@@ -1,4 +1,4 @@
-<img src="./images/numpy.png"/>
+<img src="./images/numpy.PNG"/>
 
 # Numpy
 
